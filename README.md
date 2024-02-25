@@ -1,2 +1,2 @@
 # edemogit
-this is the one plus application 
+this is the one plus application.
